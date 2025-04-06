@@ -21,7 +21,5 @@ the control pinout is:
 
 
 Battery connection: TE 4-2103177-4
-
 AC connection: Aptiv 35197127
-
 Control connection: Same as Volt Gen 2, Molex MX150 33472-1201
